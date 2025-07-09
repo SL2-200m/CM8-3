@@ -305,6 +305,9 @@
             margin-bottom: 20px;
             color: var(--secondary-color);
         }
+        .about-text a {
+            color: blue;
+        }
 
         .about-text p {
             margin-bottom: 15px;

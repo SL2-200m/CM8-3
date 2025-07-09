@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage - Highest Priority -->
+    <url>
+        <loc>https://www.CM8casino.com/</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Main Navigation Pages -->
+    <url>
+        <loc>https://www.CM8casino.com/games</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/promotions</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/about</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/features</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/testimonials</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Game Category Pages (from footer) -->
+    <url>
+        <loc>https://www.CM8casino.com/slots</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/blackjack</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/roulette</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/poker</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/live-casino</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/baccarat</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Informational Pages (from footer) -->
+    <url>
+        <loc>https://www.CM8casino.com/contact-us</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/banking</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/faq</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/terms-and-conditions</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://www.CM8casino.com/privacy-policy</loc>
+        <lastmod>2023-10-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>

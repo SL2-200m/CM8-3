@@ -1,0 +1,22 @@
+# robots.txt for https://www.CM8casino.com
+
+# This rule applies to all search engine crawlers (bots).
+User-agent: *
+
+# Disallow crawlers from accessing private or sensitive areas.
+# These pages offer no value to search engine users and should not be indexed.
+Disallow: /login
+Disallow: /register
+Disallow: /account/
+Disallow: /profile/
+Disallow: /claim-bonus/
+Disallow: /admin/
+
+# Allow crawlers to access necessary files for rendering the page correctly.
+# This is often default behavior, but it's good practice to ensure they are not blocked.
+Allow: /style.css
+Allow: /script.js
+Allow: /image/
+
+# Point search engines to the location of your sitemap.
+Sitemap: https://www.CM8casino.com/sitemap.xml
