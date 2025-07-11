@@ -110,5 +110,8 @@
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
+    <url>
+        <loc>http://c2cjobfairs.com/</loc>
+    </url>
 
 </urlset>
